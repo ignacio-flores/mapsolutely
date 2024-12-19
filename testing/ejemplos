@@ -1,0 +1,8 @@
+
+# 37 rue saint sabin (48.857784, 2.369480) - hide waterway, electrified. Add living_str ID: 63648522
+# General Holley 2326, Providencia, Santiago - hide electrified, (-33.419954, -70.607927) ID: 570565370
+# 28 rue sedaine (48.856169, 2.372886)  - ID: 63639411
+# 425 Metropolitan avenue (40.714453, -73.9544089) - add motorway_link- ID: 279772335
+# 238 rue du Faubourg Saint Antoine (48.8494323, 2.389071722) - ID: 123387402 (se pierden vias de servicio)
+# 36 rue des Wattignies (48.8358976 2.396188537) - ID: 78052799 (se pierden muchas vias) "highway.primary" : "#F3D9B1", "highway.secondary" : "#F3D9B1", "highway.tertiary" : "#F3D9B1", "highway.service" : "#F3D9B1", "highway.residential" : "#F3D9B1", "highway.pedestrian" : "#F3D9B1"
+
