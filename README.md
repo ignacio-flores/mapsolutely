@@ -1,8 +1,8 @@
-# Mapsolutely: D
+# Mapsolutely
 
 Mapsolutely is an interactive Shiny application that allows users to dynamically generate customized maps using OpenStreetMap (OSM) data. With multiple predefined styles, flexible customization options, and interactive features.
 
-![Screenshot](screenshots/place_des_vosges_yellow.png)  
+![Screenshot](screenshots/place_des_vosges_yellow.png){width=50%}    
 
 ## Features
 
